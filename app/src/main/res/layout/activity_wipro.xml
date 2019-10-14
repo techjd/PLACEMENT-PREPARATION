@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".wipro">
+
+    <LinearLayout
+        android:layout_marginTop="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button66"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" WIPRO NATIONAL HUNT TEST " />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button67"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" ELITE NATIONAL TEST HUNT FAQ'S " />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button68"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" SELECTION PROCESS " />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button69"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" PROGRAMMING QUESTIONS " />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button70"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" LOGICAL TEST " />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button71"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" QUANT TEST " />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button72"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" VERBAL TEST " />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button73"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" VERBAL ENGLISH " />
+
+
+    </LinearLayout>
+</ScrollView>

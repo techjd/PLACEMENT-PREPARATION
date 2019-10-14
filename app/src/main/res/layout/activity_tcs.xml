@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".tcs">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button74"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS TECHNICAL PAPER PRO" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button75"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS APTITUDE PAPER" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button76"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS Ninja Quantitative Aptitude 2" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button77"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS Ninja Quantitative Aptitude 3" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button78"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS Ninja Quantitative Aptitude 4" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button79"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS Ninja Quantitative Aptitude 5" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button80"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS Ninja Quantitative Aptitude 6" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button81"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS Ninja Verbal Ability 2" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button82"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS Ninja Verbal Ability 3" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button83"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS Ninja Verbal Ability 4" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button84"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS Ninja Verbal Ability 5" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button85"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS Ninja Verbal Ability 6" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button86"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS Technical Paid Paper" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button87"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS Technical Questions" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button88"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS 02T" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button89"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS 03T" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button90"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS 04C" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button91"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS 05C" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button92"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS 06C" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button93"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS PROGRAMS" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button94"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS17 02T" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button95"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS17 03T" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button96"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS17 04T" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button97"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS17 05T" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button98"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS17 06T" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button99"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TCS NINJA QUESTIONS" />
+
+
+    </LinearLayout>
+</ScrollView>

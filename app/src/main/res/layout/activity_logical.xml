@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".logical">
+
+
+    <LinearLayout
+        android:layout_marginTop="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button135"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="AGES" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button136"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="DATA INTERPRETATION" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button137"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LOGARITHM" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button138"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SYLLOGISM" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button139"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ANSWER KEY DATA INTERPRETATION" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button140"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ANSWER KEY OF LOGARITHM" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button141"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ANSWER KEY OF SYLLOGISM" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button142"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="DATA SUFFICIENCY" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button143"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LOGICAL CRYPTARITHMETIC I" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button144"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MADE EASY APTITUDE" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button145"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MENSURATION" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button146"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NUMBER AND DECIMAL FRACTIONS" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button147"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NUMBER SERIES" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button148"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PERCENTAGES" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button149"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PROFIT AND LOSS" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button150"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SYLLOGISM ANSWERKEY"   />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button151"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TIME SPEED AND DISTANCE" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button152"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="QUANTITATIVE APTITUDE" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button153"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="REASONING (2)" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button154"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="REASONING (3)" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button155"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="REASONING (4)" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button156"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="REASONING (5)" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button157"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="REASONING QUESTIONS" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button158"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="REASONING TEST PLACEMENT PAPERS" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button159"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="REASONING" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button160"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SEAT ARRANGEMENT PUZZLES" />
+    </LinearLayout>
+</ScrollView>

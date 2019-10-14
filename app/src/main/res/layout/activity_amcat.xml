@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".amcat">
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:background="@drawable/button_border"
+            android:layout_gravity="center"
+            android:id="@+id/button26"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" AMCAT CODING QUESTIONS " />
+
+        <Button
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/manrope_extrabold"
+            android:background="@drawable/button_border"
+            android:layout_gravity="center"
+            android:id="@+id/button27"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" COMPUTER PROGRAMMING 1 " />
+
+        <Button
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/manrope_extrabold"
+            android:background="@drawable/button_border"
+            android:layout_gravity="center"
+            android:id="@+id/button28"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" COMPUTER PROGRAMMING 2 " />
+
+        <Button
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/manrope_extrabold"
+            android:background="@drawable/button_border"
+            android:layout_gravity="center"
+            android:id="@+id/button29"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" COMPUTER PROGRAMMING 3 " />
+
+        <Button
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/manrope_extrabold"
+            android:background="@drawable/button_border"
+            android:layout_gravity="center"
+            android:id="@+id/button30"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" COMPUTER SCIENCE AUTOMATA " />
+
+        <Button
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/manrope_extrabold"
+            android:background="@drawable/button_border"
+            android:layout_gravity="center"
+            android:id="@+id/button31"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" COMPUTER SCIENCE CORE " />
+
+        <Button
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/manrope_extrabold"
+            android:background="@drawable/button_border"
+            android:layout_gravity="center"
+            android:id="@+id/button32"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ENGLISH COMPREHENSION" />
+
+        <Button
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/manrope_extrabold"
+            android:background="@drawable/button_border"
+            android:layout_gravity="center"
+            android:id="@+id/button33"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" LOGICAL REASONING " />
+
+        <Button
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/manrope_extrabold"
+            android:background="@drawable/button_border"
+            android:layout_gravity="center"
+            android:id="@+id/button34"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" MOSTLY ASKED CODING QUESTIONS AMCAT " />
+
+        <Button
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/manrope_extrabold"
+            android:background="@drawable/button_border"
+            android:layout_gravity="center"
+            android:id="@+id/button35"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" QUANTS AND APTITUDE " />
+
+        <Button
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/manrope_extrabold"
+            android:background="@drawable/button_border"
+            android:layout_gravity="center"
+            android:id="@+id/button36"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" VERBAL ENGLISH " />
+    </LinearLayout>
+</ScrollView>

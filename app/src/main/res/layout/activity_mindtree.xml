@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".mindtree">
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button53"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" ABOUT MINDTREE " />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button54"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" BASIC QUESTIONS " />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button55"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" FIRST ROUND " />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button56"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" CODING ROUND " />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button57"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" MINDTREE SELECTION PROCESS " />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button58"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" QUANT SECTION " />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button59"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" QUANTITATIVE APTITUDE " />
+    </LinearLayout>
+</ScrollView>

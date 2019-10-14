@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/gradient"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".infosys">
+
+    <LinearLayout
+
+        android:layout_marginTop="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CANDIDATE 1" />
+
+          <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CALL + THEIR = OFFICE" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Copy of IITK INFY PAPER" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS APTITUDE TEST" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS APTITUDE MODEL PAPERS" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS CLASS WORK" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button101"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS INTERVIEW EXPERIENCE 2014 OFF CAMPUS PLACEMENTS" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button102"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS NEW1" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button103"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS ONLINE TEST" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button104"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS PLACEMENT PAPERS 2014 WITH SOLUTIONS" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button105"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS SEATING ARRANGEMENTS" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button106"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS VERY IMPORTANT" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button107"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS1" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button108"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFY VERBAL CONVERTED" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button109"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="QUANT FORMULA BOOK 2017" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button110"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFO PPR4" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button111"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS EXPECTED QUESTIONS (BONUS SET 1)" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button112"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS MATERIALS" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button113"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS PAID 3" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button114"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS PAID MATERIAL PRO 1" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button115"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS PAID MATERIAL PRO 3" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button116"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS PAID" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button117"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS PAID 2" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button118"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS PLACEMENT INDORE" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button119"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS PLACEMENT PAPER" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button120"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS PPR1" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button121"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS PPR2" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button122"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS PREVIOUS YEAR" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button123"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS VERBAL ABILITY QUESTIONS" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button124"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS - 1" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button125"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS - 2" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button126"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS - 3" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button127"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS - 4" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button128"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS PAID MATERIAL PRO 1" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button129"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INFOSYS PLACEMENT LOGICAL REASONING PAPERS" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button130"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MORE QUESTIONS" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button131"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PAPERS AND PATTERNS" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button132"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PATTERN" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button133"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PLACEMENT PAPER" />
+
+        <Button
+            android:fontFamily="@font/manrope_extrabold"
+            android:layout_marginTop="15dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_border"
+            android:textColor="#000000"
+            android:id="@+id/button134"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="REASONING APTITUDE" />
+
+
+    </LinearLayout>
+</ScrollView>
